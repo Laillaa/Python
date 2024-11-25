@@ -6,6 +6,3 @@ I. University Projects:
   4. Recursion I
   5. Recursion II
   6. Reverse Polish Notation Algorithm
-
-II. Personal Projects
-  1. Username Validation (Coderbyte Challenge)
